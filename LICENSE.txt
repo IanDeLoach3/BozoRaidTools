@@ -1,0 +1,15 @@
+BozoRaidTools
+Copyright (c) 2026 Ian DeLoach. All Rights Reserved.
+
+This addon is provided free of charge for personal use with World of
+Warcraft. You may download and use it as-is.
+
+You may NOT:
+  - Redistribute this addon or modified versions of it on any other
+    platform or website without prior written permission.
+  - Sell this addon or any derivative of it.
+  - Claim authorship of this addon or any part of its code.
+
+If you'd like to contribute, report a bug, or request permission to fork
+or redistribute part of this project, please open an issue on the GitHub
+repository.

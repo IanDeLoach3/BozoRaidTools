@@ -1,0 +1,16 @@
+# Multiple Interface numbers = shows as current on all of these clients at once.
+# Both confirmed in-game via /run print(select(4, GetBuildInfo())):
+# 11509 = Classic Era (1.15.9), 16001 = WoW Forever (1.60.1).
+## Interface: 11509, 16001
+## Title: |cff33ff99Bozo|r Raid Tools
+## Notes: Attendance tracking, guild roster with gear inspect, loot logging with class-eligibility checking and targeted rolls, and pre-pull readiness check for <Bozo>
+## Author: Bozo
+## Version: 3.32.0
+## SavedVariables: BozoRaidToolsDB
+
+UI.lua
+Roster.lua
+GuildRoster.lua
+Loot.lua
+PrepCheck.lua
+Core.lua
